@@ -1,0 +1,12 @@
+
+body{
+    background-color: pink;
+}
+.form-group input {
+    width: 20%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.abc{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+.container{
+    background-color: rgb(240, 255, 240);
+    text-align: center;    
+}
+.roll{
+    text-align: center;
+    background-color:palevioletred;
+    padding:10px;
+}
+body{
+    background-color:yellowgreen ;
+}
+.roll button {
+    padding: 10PX;
+    border-radius: 20px;
+   
+}
+
+#diceCanvas {
+    border:  solid rgba(234, 236, 226, 0.872);
+    text-align: center;
+    height: 50vh;
+    width:40vh;
+    padding:60px, 300px;
+    margin-left: 612;
+    padding-top: 120;
+}
